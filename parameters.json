@@ -1,0 +1,6 @@
+{
+  "paramString1": {
+    "type": "String",
+    "value": "StringParameterTest"
+  }
+}
